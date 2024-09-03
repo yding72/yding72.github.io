@@ -72,7 +72,8 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 
 # 🎙 Research Projects
 
-### Web Chatbot and Website Development | *Research in Johns Hopkins University* | **May 2024 – Current**
+### <u>Web Chatbot and Website Development</u> | *Research in Johns Hopkins University* 
+**May 2024 – Current**
 - **Co-author** of the paper *"HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV"* (Under Review).
 - Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
 - Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
