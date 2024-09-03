@@ -50,10 +50,10 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 
 
 # 🎖 Technical Skills
--**Language**: Python, C, SQL, Matlab, R, JavaScript, PHP, Bash, Lisp
--**Frameworks**: PyTorch, Tensorflow, LangChain, Scikit-learn, OpenCV, NetworkX, Selenium
--**Deep Learning Models**: LLMs, GRNNs, Graph Transformer, GAN, ResNet, TCN, LSTM
--**Machine Learning**: upport Vector Machines, Naive Bayes, Decision trees, Logistic Regression
+- **Language**: Python, C, SQL, Matlab, R, JavaScript, PHP, Bash, Lisp
+- **Frameworks**: PyTorch, Tensorflow, LangChain, Scikit-learn, OpenCV, NetworkX, Selenium
+- **Deep Learning Models**: LLMs, GRNNs, Graph Transformer, GAN, ResNet, TCN, LSTM
+- **Machine Learning**: upport Vector Machines, Naive Bayes, Decision trees, Logistic Regression
 
 # 📝 Publications 
 
