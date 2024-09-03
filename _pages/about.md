@@ -70,10 +70,10 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 </div>
 -->
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks, ***Yantian Ding***, Luana Ruiz, **ICASSP 2025**, (Under Review)
-- HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV, Dapeng Yaom Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, **Yantian Ding**, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence, (Under Review)
-- Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method, Yi Luo, Zuoming Fu, **Yantian Ding**, Xiaojian Chenm Vishal Patel, Kai Ding\*, **ECSA-11** (Under Review)
-- Ground Based-cloud Classification based on Comparing Different Classification Models, Tao Zhang, **Yantian Ding**, Wangjiang Gong, Zeyu Hou, **CONF-CDS 2022**
+- Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks, ***Yantian Ding****, Luana Ruiz*, **ICASSP 2025**, (Under Review)
+- HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, ***Yantian Ding***, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*, (Under Review)
+- Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method, *Yi Luo, Zuoming Fu, ***Yantian Ding***, Xiaojian Chenm Vishal Patel, Kai Ding\**, **ECSA-11** (Under Review)
+- Ground Based-cloud Classification based on Comparing Different Classification Models, *Tao Zhang, ***Yantian Ding***, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
 
 
 # 🎙 Research Projects
