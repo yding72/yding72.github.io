@@ -30,7 +30,7 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 
 # 💻 Work Experience
 *Sep 2022 - Mar 2023*, **Health-Union, LLC**, *Philadelphia, PA* <br>
-*Data Co-op <br>
+*Data Co-op* <br>
 	- Responsible for data management and data acquisition using Snowflake. <br>
 	- Conducted data monitoring, identified the cause of abnormal data, and found corresponding solutions. <br>
 	- Applied the TCN model to predict the click-through rates based on Health-Union’s official website. <br>
@@ -71,11 +71,13 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎙 Research Projects
-*May 2024 - Current*, <u>**Web Chatbot and Website Development**</u> | *Research in Johns Hopkins University*
-	- **Co-author** of the parer "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*" (Under Review)
-	- Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
-	- Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
-	- Assisted in the website's development and maintenance, ensuring its stability and updates.
+
+### Web Chatbot and Website Development | *Research in Johns Hopkins University* | **May 2024 – Current**
+- **Co-author** of the paper *"HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV"* (Under Review).
+- Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
+- Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
+- Assisted in the website's development and maintenance, ensuring its stability and updates.
+
 	
 *Oct 2023 - Current*, <u>**Earthquake Dataset for Graph Neural Network**</u> | *Research in Johns Hopkins University*
 	- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
