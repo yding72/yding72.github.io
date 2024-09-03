@@ -111,6 +111,9 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 - Developed a well-trained machine learning model with high accuracy and speed.
 - Built and debugged for the Raspberry Pi hardware system.
 
+# 🎉 Honors and Awards
+- A.J. Drexel Scholarship, Fall 2021
+- Overseas Exchange Scholarship, Lanzhou University, 2021
 
 
 
