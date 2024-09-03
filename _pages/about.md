@@ -72,7 +72,7 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 
 # 🎙 Research Projects
 
-<h3><u><strong>Web Chatbot and Website Development</strong></u></h3> | *Research in Johns Hopkins University* 
+<h3><u><strong>Web Chatbot and Website Development</strong></u> | <em>Research in Johns Hopkins University</em></h3>
 **May 2024 – Current** | *Advised by Prof. Luana Ruiz*
 - **Co-author** of the paper *"HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV"* (Under Review).
 - Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
