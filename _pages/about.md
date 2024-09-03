@@ -29,11 +29,11 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 \* I participated in a joint cooperative program and hold bachelor's degrees from both Lanzhou University and Drexel University
 
 # 💻 Work Experience
-*Sep 2022 - Mar 2023*, **Health-Union, LLC**, *Philadelphia, PA* <br>
-*Data Co-op* <br>
-	- Responsible for data management and data acquisition using Snowflake. <br>
-	- Conducted data monitoring, identified the cause of abnormal data, and found corresponding solutions. <br>
-	- Applied the TCN model to predict the click-through rates based on Health-Union’s official website. <br>
+*Sep 2022 - Mar 2023*, **Health-Union, LLC**, *Philadelphia, PA*
+*Data Co-op* 
+- Responsible for data management and data acquisition using Snowflake.
+- Conducted data monitoring, identified the cause of abnormal data, and found corresponding solutions.
+- Applied the TCN model to predict the click-through rates based on Health-Union’s official website.
 
 *Sep 2022 - Mar 2023*, **AchievAI Technology Co., Ltd.**, *Guangdong, China*
 *Python Programmer (90% remote)
@@ -47,6 +47,9 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 	- Conducted on-site market research on the community security system and wrote an analysis report.
 	- Implemented a Python web crawler for data gathering using Requests and Beautiful Soup.
 	- Bypassed anti-scraping techniques from target websites programmatically.
+	
+	
+	
 
 # 🎖 Technical Skills
 **Language**: Python, C, SQL, Matlab, R, JavaScript, PHP, Bash, Lisp
@@ -74,39 +77,42 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 
 <h2><u><strong>Web Chatbot and Website Development</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **May 2024 – Current** | *Advised by Prof. Yanxun Xu*
-- **Co-author** of the paper *"HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV"* (Under Review).
+- **Co-author** of the paper "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*" (Under Review).
 - Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
 - Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
 - Assisted in the website's development and maintenance, ensuring its stability and updates.
 
 <h2><u><strong>Earthquake Dataset for Graph Neural Network</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **Oct 2023 - Current** | *Advised by Prof. Luana Ruiz*
-- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
+- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review).
 - Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
 - Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
 - Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
 
 <h2><u><strong>CALEX Extraction System</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Drexel University</em></span></h2>
 **Sep 2022 - Jun 2023** | *Advised by [Prof. Hegler Tissot](https://drexel.edu/cci/about/directory/T/Tissot-Hegler/)*
-- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
 - Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
 - Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
 - Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
 
+<h2><u><strong>Traffic Accident Prediction based on Neural Network</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Lanzhou University</em></span></h2>
+**Dec 2021 - Jun 2022** | *Advised by [Prof. Longjie Li](https://ljlilzu.github.io/)*
+- Built a Graph Residual Neural Network incorporating an Attention Mechanisms model with a prediction accuracy of 92.42% on unseen data.
+- Collected and collated accident data, speed data, and road data from NYC Open Data, NOAA, Uber Movement, and Open Street Map in Brooklyn.
+- Developed a traffic accident severity forecasting model for the Brooklyn area with Python.
 
-	
-*Sep 2022 - Jun 2023*, ** CALEX Extraction System** | *Graduation Design in Drexel University*
-	- Managed the development and coding of the CALEX Extraction System, enhancing the processing of natural language texts for temporal data annotation.
-	- Assisted in dataset annotation, focusing on accuracy and efficiency to support applications in various domains.
-	- Utilized rule-based programming to standardize temporal expressions, improving the system’s scalability and reliability.
-	
-*Dec 2021 - Jun 2022*, **Traffic Accident Prediction based on Neural Network** | *Graduation Design in Lanzhou University*
-	- Built a Graph Residual Neural Network incorporating an Attention Mechanisms model with a prediction accuracy of 92.42% on unseen data.
-	- Collected and collated accident data, speed data, and road data from NYC Open Data, NOAA, Uber Movement, and Open Street Map in Brooklyn.
-	- Developed a traffic accident severity forecasting model for the Brooklyn area with Python.
+<h2><u><strong>Ground Based-cloud Classification based on Comparing Different Classification Models</strong></u></h2>
+**May 2021 - Aug 2021** | *Advised by [Prof. David Woodruff](https://www.cs.cmu.edu/~dwoodruf/)
+- **Co-first-author** of the paper "*Ground Based-cloud Classification based on Comparing Different Classification Models.*" Lecture Notes on *Data Engineering and Communications Technologies book series (CONF-CDS 2022)*. Accepted in March 2022.
+- Preprocessed around 15,000 cloud images in 5 types in the same format and pixels using LBP.
+- Implemented four classification models—KSVM, MLP, Custom Vision and ResNet to compare each classification’s accuracy.
 
-*July 2020 - Apr 2021*, **Raspberry Pi-Based Facial Recognition System**
-	- Designed a smaller facial recognition machine, equipped with a trained face recognition algorithm.
-	- Developed a well-trained machine learning model with high accuracy and speed
-	-  Built and debugged for the Raspberry Pi hardware system
+<h2><u><strong>Raspberry Pi-Based Facial Recognition System</strong></u></h2>
+**July 2020 - Apr 2021** | *Advised by [Prof. Qiming Liu](https://mat.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2021/0926/180670.html)
+- Designed a smaller facial recognition machine, equipped with a trained face recognition algorithm.
+- Developed a well-trained machine learning model with high accuracy and speed.
+- Built and debugged for the Raspberry Pi hardware system.
+
+
+
 
