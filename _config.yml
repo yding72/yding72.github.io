@@ -27,7 +27,7 @@ author:
   location         : "Baltimore, MD"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "yding72@jh.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  Handshake        : "https://jhu.joinhandshake.com/profiles/51404944"
 
 
 # Reading Files
