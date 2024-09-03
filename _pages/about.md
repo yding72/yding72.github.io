@@ -29,27 +29,25 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 \* I participated in a joint cooperative program and hold bachelor's degrees from both Lanzhou University and Drexel University
 
 # 💻 Work Experience
-*Sep 2022 - Mar 2023*, **Health-Union, LLC**, *Philadelphia, PA*
-*Data Co-op* 
+<h2><u><strong>Health-Union, LLC</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Philadelphia, PA</em></span></h2>
+**Sep 2022 - Mar 2023** | *Data Co-op*
 - Responsible for data management and data acquisition using Snowflake.
 - Conducted data monitoring, identified the cause of abnormal data, and found corresponding solutions.
 - Applied the TCN model to predict the click-through rates based on Health-Union’s official website.
 
-*Sep 2022 - Mar 2023*, **AchievAI Technology Co., Ltd.**, *Guangdong, China*
-*Python Programmer (90% remote)
-	- Designed/developed an algorithm to extract annual growth ring lines in sectional view from woodgrain pattern images with noise data.
-	- Coded for converting 3D wood sheet models (in .stl) to .tiff images.
-	- Conducted research on generating wood pattern images with GANs.
-	- Built source code for GIMP \2.10 on Ubuntu and developed a plugin in Python that displays .stl files.
-	
-*Sep 2022 - Mar 2023*, **Newland Digital Technology Co., Ltd.**, *Fujian, China*
-*Python Programmer
-	- Conducted on-site market research on the community security system and wrote an analysis report.
-	- Implemented a Python web crawler for data gathering using Requests and Beautiful Soup.
-	- Bypassed anti-scraping techniques from target websites programmatically.
-	
-	
-	
+<h2><u><strong>AchievAI Technology Co., Ltd.</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Guangdong, China</em></span></h2>
+**Dec 2020 - Sep 2022** | *Python Programmer (90% remote)*
+- Designed/developed an algorithm to extract annual growth ring lines in sectional view from woodgrain pattern images with noise data.
+- Coded for converting 3D wood sheet models (in .stl) to .tiff images.
+- Conducted research on generating wood pattern images with GANs.
+- Built source code for GIMP \2.10 on Ubuntu and developed a plugin in Python that displays .stl files.
+
+<h2><u><strong>Newland Digital Technology Co., Ltd.</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Fujian, China</em></span></h2>
+**Aug 2020 - Sep 2020** | *Python Programmer*
+- Conducted on-site market research on the community security system and wrote an analysis report.
+- Implemented a Python web crawler for data gathering using Requests and Beautiful Soup.
+- Bypassed anti-scraping techniques from target websites programmatically.
+
 
 # 🎖 Technical Skills
 **Language**: Python, C, SQL, Matlab, R, JavaScript, PHP, Bash, Lisp
