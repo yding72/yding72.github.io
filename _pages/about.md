@@ -70,10 +70,10 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 </div>
 -->
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks, ***Yantian Ding****, Luana Ruiz*, **ICASSP 2025**, (Under Review)
-- HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, ***Yantian Ding***, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*, (Under Review)
-- Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method, *Yi Luo, Zuoming Fu, ***Yantian Ding***, Xiaojian Chenm Vishal Patel, Kai Ding\**, **ECSA-11** (Under Review)
-- Ground Based-cloud Classification based on Comparing Different Classification Models, *Tao Zhang, ***Yantian Ding***, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
+- <u>Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks<\u>, *<strong><em>Yantian Ding</em></strong>, Luana Ruiz*, **ICASSP 2025**, (Under Review)
+- <u>HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV<\u>, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, <strong><em>Yantian Ding</em></strong>, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*, (Under Review)
+- <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method<\u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **ECSA-11** (Under Review)
+- <u>Ground Based-cloud Classification based on Comparing Different Classification Models<\u>, *Tao Zhang, <strong><em>Yantian Ding</em></strong>, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
 
 
 # 🎙 Research Projects
