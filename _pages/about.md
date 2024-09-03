@@ -56,7 +56,7 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 - **Machine Learning**: upport Vector Machines, Naive Bayes, Decision trees, Logistic Regression
 
 # 📝 Publications 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,8 +68,13 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
+<!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+- Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks, ***Yantian Ding***, Luana Ruiz, **ICASSP 2025**, (Under Review)
+- HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV, Dapeng Yaom Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, **Yantian Ding**, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence, (Under Review)
+- Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method, Yi Luo, Zuoming Fu, **Yantian Ding**, Xiaojian Chenm Vishal Patel, Kai Ding\*, **ECSA-11** (Under Review)
+- Ground Based-cloud Classification based on Comparing Different Classification Models, Tao Zhang, **Yantian Ding**, Wangjiang Gong, Zeyu Hou, **CONF-CDS 2022**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎙 Research Projects
 
@@ -101,7 +106,7 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 
 <h2><strong>Ground Based-cloud Classification based on Comparing Different Classification Models</strong></h2>
 **May 2021 - Aug 2021** | *Advised by [Prof. David Woodruff](https://www.cs.cmu.edu/~dwoodruf/)
-- **Co-first-author** of the paper "*Ground Based-cloud Classification based on Comparing Different Classification Models.*" Lecture Notes on *Data Engineering and Communications Technologies book series (CONF-CDS 2022)*. Accepted in March 2022.
+- **Co-first-author** of the paper "*Ground Based-cloud Classification based on Comparing Different Classification Models*". Lecture Notes on *Data Engineering and Communications Technologies book series (CONF-CDS 2022)*. Accepted in March 2022.
 - Preprocessed around 15,000 cloud images in 5 types in the same format and pixels using LBP.
 - Implemented four classification models—KSVM, MLP, Custom Vision and ResNet to compare each classification’s accuracy.
 
