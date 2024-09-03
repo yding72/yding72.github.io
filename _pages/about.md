@@ -73,11 +73,19 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 # 🎙 Research Projects
 
 <h2><u><strong>Web Chatbot and Website Development</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
-**May 2024 – Current** | *Advised by Prof. Luana Ruiz*
+**May 2024 – Current** | *Advised by Prof. Yanxun Xu*
 - **Co-author** of the paper *"HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV"* (Under Review).
 - Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
 - Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
 - Assisted in the website's development and maintenance, ensuring its stability and updates.
+
+<h2><u><strong>Earthquake Dataset for Graph Neural Network</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
+**Oct 2023 - Current** | *Advised by Prof. Luana Ruiz*
+	- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
+	- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
+	- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
+	- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
+
 
 	
 *Oct 2023 - Current*, <u>**Earthquake Dataset for Graph Neural Network**</u> | *Research in Johns Hopkins University*
