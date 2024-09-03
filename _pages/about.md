@@ -17,17 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a M.S.E. Student in the Department of Applied Mathematics and Statistics at the Whiting School of Engineering, Johns Hopkins University, advised by Prof. Luana Ruiz. My primary interests lie in Graph Neural Networks (GNN) and Large Language Models (LLMs). I have hands-on experience with Python, TensorFlow, and PyTorch, and have worked on several projects involving GNNs and LLMs.
+I am a M.S.E. Student in the Department of Applied Mathematics and Statistics at the Whiting School of Engineering, Johns Hopkins University, advised by Prof. Luana Ruiz. My primary interests lie in Graph Neural Networks (GNN) and Large Language Models (LLMs). I have hands-on experience with Python, TensorFlow, and PyTorch, and have worked on several projects involving Time Series Analysis, LLMs and GNNs.
 
-Currently, I am actively seeking full-time opportunities in the fields of LLMs, GNNs, AI, and data science, where I can apply my knowledge and skills to real-world challenges. I am particularly interested in roles that allow me to contribute to the development and deployment of advanced AI models. Please feel free to connect with me via email for job opportunities.
+Currently, I am actively seeking full-time opportunities in the fields of Time Series Analysis, LLMs, GNNs, AI, and data science, where I can apply my knowledge and skills to real-world challenges. I am particularly interested in roles that allow me to contribute to the development and deployment of advanced AI models. Please feel free to connect with me via email for job opportunities.
 
 # 📖 Educations
 - *Sep 2019 - May 2025 (Predicted)*, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
-- \* *Sep 2018 - June 2023*, Bachelor in Data Science, Drexel University, Philadelphia, PA, U.S.A.
-- \* *Sep 2018 - June 2022*, Bachelor in Computer Science, Lanzhou University, Gansu, China
+- *Sep 2018 - June 2023*, Bachelor in Data Science, Drexel University, Philadelphia, PA, U.S.A. \* 
+- *Sep 2018 - June 2022*, Bachelor in Computer Science, Lanzhou University, Gansu, China \* 
 
 \* I participated in a joint cooperative program and hold bachelor's degrees from both Lanzhou University and Drexel University
 
+# 💻 Work Experience
+*Sep 2022 - Mar 2023*, **Health-Union, LLC**, *Philadelphia, PA*
+*Data Co-op
+	- Responsible for data management and data acquisition using Snowflake.
+	- Conducted data monitoring, identified the cause of abnormal data, and found corresponding solutions.
+	- Applied the TCN model to predict the click-through rates based on Health-Union’s official website.
+
+*Sep 2022 - Mar 2023*, **AchievAI Technology Co., Ltd.**, *Guangdong, China*
+*Python Programmer (90% remote)
+	- Designed/developed an algorithm to extract annual growth ring lines in sectional view from woodgrain pattern images with noise data.
+	- Coded for converting 3D wood sheet models (in .stl) to .tiff images.
+	- Conducted research on generating wood pattern images with GANs.
+	- Built source code for GIMP \2.10 on Ubuntu and developed a plugin in Python that displays .stl files.
+	
+*Sep 2022 - Mar 2023*, **Newland Digital Technology Co., Ltd.**, *Fujian, China*
+*Python Programmer
+	- Conducted on-site market research on the community security system and wrote an analysis report.
+	- Implemented a Python web crawler for data gathering using Requests and Beautiful Soup.
+	- Bypassed anti-scraping techniques from target websites programmatically.
+
+# 🎖 Technical Skills
+**Language**: Python, C, SQL, Matlab, R, JavaScript, PHP, Bash, Lisp
+**Frameworks**: PyTorch, Tensorflow, LangChain, Scikit-learn, OpenCV, NetworkX, Selenium
+**Deep Learning Models**: LLMs, GRNNs, Graph Transformer, GAN, ResNet, TCN, LSTM
+**Machine Learning**: upport Vector Machines, Naive Bayes, Decision trees, Logistic Regression
 
 # 📝 Publications 
 
@@ -45,14 +70,31 @@ Currently, I am actively seeking full-time opportunities in the fields of LLMs, 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎙 Research Projects
+*May 2024 - Current*, <u>**Web Chatbot and Website Development**</u> | *Research in Johns Hopkins University*
+	- **Co-author** of the parer "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*" (Under Review)
+	- Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
+	- Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
+	- Assisted in the website's development and maintenance, ensuring its stability and updates.
+	
+*Oct 2023 - Current*, <u>**Earthquake Dataset for Graph Neural Network**</u> | *Research in Johns Hopkins University*
+	- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
+	- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
+	- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
+	- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
+	
+*Sep 2022 - Jun 2023*, ** CALEX Extraction System** | *Graduation Design in Drexel University*
+	- Managed the development and coding of the CALEX Extraction System, enhancing the processing of natural language texts for temporal data annotation.
+	- Assisted in dataset annotation, focusing on accuracy and efficiency to support applications in various domains.
+	- Utilized rule-based programming to standardize temporal expressions, improving the system’s scalability and reliability.
+	
+*Dec 2021 - Jun 2022*, **Traffic Accident Prediction based on Neural Network** | *Graduation Design in Lanzhou University*
+	- Built a Graph Residual Neural Network incorporating an Attention Mechanisms model with a prediction accuracy of 92.42% on unseen data.
+	- Collected and collated accident data, speed data, and road data from NYC Open Data, NOAA, Uber Movement, and Open Street Map in Brooklyn.
+	- Developed a traffic accident severity forecasting model for the Brooklyn area with Python.
 
+*July 2020 - Apr 2021*, **Raspberry Pi-Based Facial Recognition System**
+	- Designed a smaller facial recognition machine, equipped with a trained face recognition algorithm.
+	- Developed a well-trained machine learning model with high accuracy and speed
+	-  Built and debugged for the Raspberry Pi hardware system
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
