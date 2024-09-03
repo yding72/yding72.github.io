@@ -21,9 +21,13 @@ I am a M.S.E. Student in the Department of Applied Mathematics and Statistics at
 
 Currently, I am actively seeking full-time opportunities in the fields of LLMs, GNNs, AI, and data science, where I can apply my knowledge and skills to real-world challenges. I am particularly interested in roles that allow me to contribute to the development and deployment of advanced AI models. Please feel free to connect with me via email for job opportunities.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Educations
+- *Sep 2019 - May 2025 (Predicted)*, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
+- \* *Sep 2018 - June 2023*, Bachelor in Data Science, Drexel University, Philadelphia, PA, U.S.A.
+- \* *Sep 2018 - June 2022*, Bachelor in Computer Science, Lanzhou University, Gansu, China
+
+\* I participated in a joint cooperative program and hold bachelor's degrees from both Lanzhou University and Drexel University
+
 
 # 📝 Publications 
 
@@ -45,9 +49,6 @@ Currently, I am actively seeking full-time opportunities in the fields of LLMs, 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
