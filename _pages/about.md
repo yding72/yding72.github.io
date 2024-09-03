@@ -81,18 +81,19 @@ Currently, I am actively seeking full-time opportunities in the fields of Time S
 
 <h2><u><strong>Earthquake Dataset for Graph Neural Network</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **Oct 2023 - Current** | *Advised by Prof. Luana Ruiz*
-	- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
-	- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
-	- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
-	- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
+- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
+- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
+- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
+- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
+
+<h2><u><strong>CALEX Extraction System</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Drexel University</em></span></h2>
+**Sep 2022 - Jun 2023** | *Advised by [Prof. Hegler Tissot](https://drexel.edu/cci/about/directory/T/Tissot-Hegler/)*
+- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
+- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
+- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
+- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
 
 
-	
-*Oct 2023 - Current*, <u>**Earthquake Dataset for Graph Neural Network**</u> | *Research in Johns Hopkins University*
-	- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review)
-	- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
-	- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
-	- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
 	
 *Sep 2022 - Jun 2023*, ** CALEX Extraction System** | *Graduation Design in Drexel University*
 	- Managed the development and coding of the CALEX Extraction System, enhancing the processing of natural language texts for temporal data annotation.
