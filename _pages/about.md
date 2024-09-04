@@ -21,7 +21,7 @@ I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/a
 
 Currently, I am actively seeking full-time opportunities in the fields of **Time Series Analysis, LLMs, GNNs, AI, and Data Science**, where I can apply my knowledge and skills to real-world challenges. I am particularly interested in roles that allow me to contribute to the development and deployment of advanced AI models. Please feel free to connect with me via email for job opportunities.
 
-# 📖 Educations
+# 📖 Education
 - *Sep 2019 - May 2025 (Expected)*, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
 - *Sep 2018 - June 2023*, Bachelor in Data Science, Drexel University, Philadelphia, PA, U.S.A. \* 
 - *Sep 2018 - June 2022*, Bachelor in Computer Science, Lanzhou University, Gansu, China \* 
@@ -70,9 +70,9 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 </div>
 -->
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- <u>Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks</u>, <em><strong>Yantian Ding</strong>, Luana Ruiz</em>, **ICASSP 2025**, (Under Review)
-- <u>HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV</u>, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, <strong><em>Yantian Ding</em></strong>, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*, **Nature Medicine**(Under Review)
-- <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method</u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **ECSA-11** (Under Review)
+- <u>Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks</u>, <em><strong>Yantian Ding</strong>, Luana Ruiz</em>, **ICASSP 2025** (Under Review)
+- <u>HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV</u>, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, <strong><em>Yantian Ding</em></strong>, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*..., **Nature Medicine** (Under Review)
+- <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method</u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **Sensors** (Under Review)
 - <u>Ground Based-cloud Classification based on Comparing Different Classification Models</u>, *Tao Zhang, <strong><em>Yantian Ding</em></strong>, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
 
 
