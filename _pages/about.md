@@ -94,9 +94,9 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 
 <h2><strong>CALEX Extraction System</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Drexel University</em></span></h2>
 **Sep 2022 - Jun 2023** | *Advised by [Prof. Hegler Tissot](https://drexel.edu/cci/about/directory/T/Tissot-Hegler/)*
-- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset for graph neural network research.
-- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
-- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency.
+- Managed the development and coding of the CALEX Extraction System, enhancing the processing of natural language texts for temporal data annotation.
+- Assisted in dataset annotation, focusing on accuracy and efficiency to support applications in various domains.
+- Utilized rule-based programming to standardize temporal expressions, improving the system’s scalability and reliability.
 
 <h2><strong>Traffic Accident Prediction based on Neural Network</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Lanzhou University</em></span></h2>
 **Dec 2021 - Jun 2022** | *Advised by [Prof. Longjie Li](https://ljlilzu.github.io/)*
