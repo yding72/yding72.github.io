@@ -105,13 +105,13 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 - Developed a traffic accident severity forecasting model for the Brooklyn area with Python.
 
 <h2><strong>Ground Based-cloud Classification based on Comparing Different Classification Models</strong></h2>
-**May 2021 - Aug 2021** | *Advised by [Prof. David Woodruff](https://www.cs.cmu.edu/~dwoodruf/)
+**May 2021 - Aug 2021** | *Advised by [Prof. David Woodruff](https://www.cs.cmu.edu/~dwoodruf/)*
 - **Co-first-author** of the paper "*Ground Based-cloud Classification based on Comparing Different Classification Models*". Lecture Notes on *Data Engineering and Communications Technologies book series (CONF-CDS 2022)*. Accepted in March 2022.
 - Preprocessed around 15,000 cloud images in 5 types in the same format and pixels using LBP.
 - Implemented four classification models—KSVM, MLP, Custom Vision and ResNet to compare each classification’s accuracy.
 
 <h2><strong>Raspberry Pi-Based Facial Recognition System</strong></h2>
-**July 2020 - Apr 2021** | *Advised by [Prof. Qiming Liu](https://mat.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2021/0926/180670.html)
+**July 2020 - Apr 2021** | *Advised by [Prof. Qiming Liu](https://mat.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2021/0926/180670.html)*
 - Designed a smaller facial recognition machine, equipped with a trained face recognition algorithm.
 - Developed a well-trained machine learning model with high accuracy and speed.
 - Built and debugged for the Raspberry Pi hardware system.
