@@ -112,13 +112,14 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 
 <h2><strong>Raspberry Pi-Based Facial Recognition System</strong></h2>
 **July 2020 - Apr 2021** | *Advised by [Prof. Qiming Liu](https://mat.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2021/0926/180670.html)*
-- Designed a smaller facial recognition machine, equipped with a trained face recognition algorithm.
-- Developed a well-trained machine learning model with high accuracy and speed.
+- Designed a smaller facial recognition machine system, equipped with a trained face recognition algorithm.
+- Developed a well-trained machine learning model with high accuracy and response speed.
 - Built and debugged for the Raspberry Pi hardware system.
 
 # 🏆 Honors and Awards
 - A.J. Drexel Scholarship, Fall 2021
 - Overseas Exchange Scholarship, Lanzhou University, 2021
+- Overseas Exchange Scholarship, Lanzhou University, 2022
 
 
 
