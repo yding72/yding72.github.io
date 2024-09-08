@@ -33,20 +33,19 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 **Sep 2022 - Mar 2023** | *Data Co-op*
 - Responsible for data management and data acquisition using Snowflake.
 - Conducted data monitoring, identified the cause of abnormal data, and found corresponding solutions.
-- Applied the TCN model to predict the click-through rates based on Health-Union’s official website.
+- Applied **Temporal Convolutional Network (TCN)** models to accurately predict the click-through rates on the Health-Union website, enhancing both model performance and predictive precision.
 
 <h2><strong>AchievAI Technology Co., Ltd.</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Guangdong, China</em></span></h2>
 **Dec 2020 - Sep 2022** | *Python Programmer (90% remote)*
-- Designed/developed an algorithm to extract annual growth ring lines in sectional view from woodgrain pattern images with noise data.
-- Coded for converting 3D wood sheet models (in .stl) to .tiff images.
-- Conducted research on generating wood pattern images with GANs.
-- Built source code for GIMP \2.10 on Ubuntu and developed a plugin in Python that displays .stl files.
+- Developed algorithms for image processing and machine learning, successfully extracting precise annual ring data from noisy wood texture images, enhancing accuracy and robustness.
+- Conducted research on generating high-quality wood texture images with GANs.
+- Developed a Python plugin on Linux for converting 3D wood models (.stl) to high-resolution .tiff images, significantly enhancing plugin functionality.
 
 <h2><strong>Newland Digital Technology Co., Ltd.</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Fujian, China</em></span></h2>
 **Aug 2020 - Sep 2020** | *Python Programmer*
-- Conducted on-site market research on the community security system and wrote an analysis report.
-- Implemented a Python web crawler for data gathering using Requests and Beautiful Soup.
-- Bypassed anti-scraping techniques from target websites programmatically.
+- Conducted market research on community security systems, integrating big data analysis to produce a comprehensive report.
+- Developed Python web crawlers using Requests and Beautiful Soup, processing data from over 1,000 web pages for efficient data collection and storage.
+- Implemented automated anti-scraping techniques, including user behavior simulation and dynamic IP proxy, improving data extraction accuracy and stability.
 
 
 # 🎖 Technical Skills
@@ -81,16 +80,14 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 <h2><u><strong>Web Chatbot and Website Development</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **May 2024 – Current** | *Advised by [Prof. Yanxun Xu](https://engineering.jhu.edu/faculty/yanxun-xu/)*
 - **Co-author** of the paper "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*" (Under Review).
-- Developed an LLM-based chatbot for the HIV-AICare website to help users interpret model results and navigate the platform, significantly improving user engagement.
+- Developed a chatbot for the HIV-AICare website based on **MedAlpaca and RAG** technologies, assisting users in interpreting web model calculation results and navigating the platform, significantly enhancing user engagement and system intelligence.
 - Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
-- Assisted in the website's development and maintenance, ensuring its stability and updates.
 
 <h2><u><strong>Earthquake Dataset for Graph Neural Network</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **Oct 2023 - Current** | *Advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/)*
 - **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review).
-- Established and refined earthquake data from GeoNet for New Zealand, with the goal of making it a standard dataset (295G) for graph neural network research
-- Designed and implemented data prepossessing workflows, including data cleaning, graph modeling, and data format conversion, to meet the input requirements of GRNN models.
-- Refactored GRNN code with PyTorch Geometric (PyG) for improved performance and efficiency, achieving a 20% increase in accuracy compared to traditional models.
+- Built and optimized a seismic time series dataset (approximately 295GB) from New Zealand's GeoNet, and simultaneously designed and implemented preprocessing workflows, including data cleaning, graph structure construction, and data format conversion, ensuring compliance with the input requirements of GRNN models.
+- **Refactored GRNN code** using PyTorch Geometric (PyG), significantly improving performance and efficiency, achieving a roughly 20\% increase in accuracy compared to traditional *Graph Transformer*.
 
 <h2><strong>CALEX Extraction System</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Drexel University</em></span></h2>
 **Sep 2022 - Jun 2023** | *Advised by [Prof. Hegler Tissot](https://drexel.edu/cci/about/directory/T/Tissot-Hegler/)*
