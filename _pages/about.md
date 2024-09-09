@@ -77,7 +77,7 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 
 # 🎙 Research Projects
 
-<h2><u><strong>Web Chatbot and Website Development</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
+<h2><u><strong>HIV-AICare Web Chatbot and Website Development</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **May 2024 – Current** | *Advised by [Prof. Yanxun Xu](https://engineering.jhu.edu/faculty/yanxun-xu/)*
 - **Co-author** of the paper "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*" (Under Review).
 - Developed a chatbot for the HIV-AICare website based on **MedAlpaca and RAG** technologies, assisting users in interpreting web model calculation results and navigating the platform, significantly enhancing user engagement and system intelligence.
