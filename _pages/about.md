@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/) (Department of Applied Mathematics and Statistics) at the Whiting School of Engineering, Johns Hopkins University, advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/). My primary interests lie in Graph Neural Networks (GNN) and Large Language Models (LLMs). I have hands-on experience with **Python, TensorFlow, and PyTorch**, and have worked on several projects involving **Time Series Analysis, LLMs and GNNs**.
+<!-- , advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/).  -->
+I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/) (Department of Applied Mathematics and Statistics) at the Whiting School of Engineering, Johns Hopkins University. My primary interests lie in Graph Neural Networks (GNN) and Large Language Models (LLMs). I have hands-on experience with **Python, TensorFlow, and PyTorch**, and have worked on several projects involving **Time Series Analysis, LLMs and GNNs**.
 
 Currently, I am actively seeking full-time opportunities in the fields of **Time Series Analysis, LLMs, GNNs, AI, and Data Science**, where I can apply my knowledge and skills to real-world challenges. I am particularly interested in roles that allow me to contribute to the development and deployment of advanced AI models. Please feel free to connect with me via email for job opportunities.
 
@@ -71,7 +71,7 @@ Currently, I am actively seeking full-time opportunities in the fields of **Time
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 - <u>Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks</u>, <em><strong>Yantian Ding</strong>, Luana Ruiz</em>, **ICASSP 2025** (Under Review)
 - <u>HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV</u>, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, <strong><em>Yantian Ding</em></strong>, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*..., **Nature Medicine** (Under Review)
-- <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method</u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **Sensors** (Under Review)
+- <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method</u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **Sensors** (accepted)
 - <u>Ground Based-cloud Classification based on Comparing Different Classification Models</u>, *Tao Zhang, <strong><em>Yantian Ding</em></strong>, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
 
 
