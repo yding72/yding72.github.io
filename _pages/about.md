@@ -19,10 +19,8 @@ redirect_from:
 <!-- , advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/).  -->
 I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/) (Department of Applied Mathematics and Statistics) at the Whiting School of Engineering, Johns Hopkins University, advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/). . My primary interests lie in Graph Neural Networks (GNN) and Large Language Models (LLMs). I have hands-on experience with **Python, TensorFlow, and PyTorch**, and have worked on several projects involving **Time Series Analysis, LLMs and GNNs**.
 
-Currently, I am actively seeking full-time opportunities in the fields of **Time Series Analysis, LLMs, GNNs, AI, and Data Science**, where I can apply my knowledge and skills to real-world challenges. I am particularly interested in roles that allow me to contribute to the development and deployment of advanced AI models. Please feel free to connect with me via email for job opportunities.
-
 # 📖 Education
-- *Sep 2023 - May 2025*, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
+- *Sep 2023 - May 2025 *, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
 - *Sep 2018 - June 2023*, Bachelor in Data Science, Drexel University, Philadelphia, PA, U.S.A. \* 
 - *Sep 2018 - June 2022*, Bachelor in Computer Science, Lanzhou University, Gansu, China \* 
 
