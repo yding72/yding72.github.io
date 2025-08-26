@@ -28,7 +28,7 @@ I recently graduated with an M.S.E. Student in [Data Science of AMS](https://eng
 \* I participated in a joint cooperative program and hold bachelor's degrees from both Lanzhou University and Drexel University
 
 # 💻 Work Experience
-<h2><strong>ComppInc.</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>San Francisco, CA</em></span></h2>
+<h2><strong>Compp Inc.</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>San Francisco, CA</em></span></h2>
 **Sep 2022 - Mar 2023** | *Full-Stack Developer*
 - Built a full-stack web application that enables natural language control over Salesforce API operations, powered by **OpenAI Assistant API** and advanced tool calling logic.
 - Developed the backend using Flask, integrated **LLM function calling**, streaming responses, and contextual memory; deployed on **GCP with Gunicorn + Nginx (HTTPS)**.
@@ -120,4 +120,3 @@ I recently graduated with an M.S.E. Student in [Data Science of AMS](https://eng
 - A.J. Drexel Scholarship, Fall 2021
 - Overseas Exchange Scholarship, Lanzhou University, 2021
 - Overseas Exchange Scholarship, Lanzhou University, 2022
-
