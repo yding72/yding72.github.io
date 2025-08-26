@@ -121,5 +121,3 @@ I recently graduated with an M.S.E. Student in [Data Science of AMS](https://eng
 - Overseas Exchange Scholarship, Lanzhou University, 2021
 - Overseas Exchange Scholarship, Lanzhou University, 2022
 
-
-
