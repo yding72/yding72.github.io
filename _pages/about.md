@@ -17,16 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <!-- , advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/).  -->
-I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/) (Department of Applied Mathematics and Statistics) at the Whiting School of Engineering, Johns Hopkins University, advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/). . My primary interests lie in Graph Neural Networks (GNN) and Large Language Models (LLMs). I have hands-on experience with **Python, TensorFlow, and PyTorch**, and have worked on several projects involving **Time Series Analysis, LLMs and GNNs**.
+I recently graduated with an M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/academics/graduate-studies/ms-in-data-science/) from Johns Hopkins University in May 2025. My academic and professional background spans **Large Language Models (LLMs)**, **Graph Neural Networks (GNNs)**, and **Time Series Analysis**, with published and under-review research in top AI venues. I have hands-on experience with **Python, JavaScript, R, PyTorch, TensorFlow, LangChain, Flask, React, and MySQL**, and have applied these skills in projects ranging from **retrieval-augmented generation (LMAR), Kaplan-Meier survival curve reconstruction, and PCG murmur detection** to **full-stack AI-powered CRM automation**.
 
+**I am now actively seeking full-time opportunities in LLMs, AI, Machine Learning, and Data Science**, where I can contribute to developing, deploying, and scaling intelligent systems for real-world applications. I am particularly interested in roles involving **LLMs, GNNs, multimodal AI, and applied machine learning for healthcare and finance**. Please feel free to connect with me via email for potential collaborations or job opportunities.
 # 📖 Education
-- *Sep 2023 - May 2025 *, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
+- *Sep 2023 - May 2025*, M.S.E. in Data Science, Johns Hopkins University, Baltimore, MD, U.S.A.
 - *Sep 2018 - June 2023*, Bachelor in Data Science, Drexel University, Philadelphia, PA, U.S.A. \* 
 - *Sep 2018 - June 2022*, Bachelor in Computer Science, Lanzhou University, Gansu, China \* 
 
 \* I participated in a joint cooperative program and hold bachelor's degrees from both Lanzhou University and Drexel University
 
 # 💻 Work Experience
+<h2><strong>ComppInc.</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>San Francisco, CA</em></span></h2>
+**Sep 2022 - Mar 2023** | *Full-Stack Developer*
+- Built a full-stack web application that enables natural language control over Salesforce API operations, powered by **OpenAI Assistant API** and advanced tool calling logic.
+- Developed the backend using Flask, integrated **LLM function calling**, streaming responses, and contextual memory; deployed on **GCP with Gunicorn + Nginx (HTTPS)**.
+- Built a responsive **React** frontend supporting real-time chat and threaded memory; integrated MySQL for session history, tool records, and user management.
+- Delivered a working Beta at [agent.compp.io](https://agent.compp.io), supporting CRM automation such as lead management, forecast queries, and opportunity updates.
+
 <h2><strong>Health-Union, LLC</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Philadelphia, PA</em></span></h2>
 **Sep 2022 - Mar 2023** | *Data Co-op*
 - Responsible for data management and data acquisition using Snowflake.
@@ -47,13 +55,13 @@ I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/a
 
 
 # 🎖 Technical Skills
-- **Language**: Python, C, SQL, Matlab, R, JavaScript, PHP, Bash, Lisp
-- **Frameworks**: PyTorch, Tensorflow, LangChain, Scikit-learn, OpenCV, NetworkX, Selenium
+- **Language**: Python, JavaScript, R, SQL, Matlab, PHP, Bash, C
+- **Frameworks**: OpenAI Assistants and Function Calling, LangChain, PyTorch, Tensorflow, React, Scikit-learn, Tesseract OCR, Flask, Selenium
 - **Deep Learning Models**: LLMs, GRNNs, Graph Transformer, GAN, ResNet, TCN, LSTM
-- **Machine Learning**: upport Vector Machines, Naive Bayes, Decision trees, Logistic Regression
-
-# 📝 Publications 
+- **Machine Learning**: Support Vector Machines, Naive Bayes, Decision trees, Logistic Regression
 <!-- 
+# 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,27 +73,44 @@ I am a M.S.E. Student in [Data Science of AMS](https://engineering.jhu.edu/ams/a
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
--->
-<!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+
 - <u>Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks</u>, <em><strong>Yantian Ding</strong>, Luana Ruiz</em>, **ICASSP 2025** (Under Review)
 - <u>HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV</u>, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, <strong><em>Yantian Ding</em></strong>, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*..., **Nature Medicine** (Under Review)
 - <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method</u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **Sensors** (accepted)
 - <u>Ground Based-cloud Classification based on Comparing Different Classification Models</u>, *Tao Zhang, <strong><em>Yantian Ding</em></strong>, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
-
+-->
 
 # 🎙 Research Projects
+<h2><u><strong>LMAR</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
+**Sep 2024 – Current** | *Advised by [Prof. Yanxun Xu](https://engineering.jhu.edu/faculty/yanxun-xu/)*
+- **Co-author** of the parer "*LMAR: Language Model Augmented Retriever for Domain-specific Knowledge Indexing*" [Under Review] AAAI Conference on Artificial Intelligence (AAAI), 2025.
+- Developed LMAR, a model-agnostic retrieval framework that integrates LLM-guided contrastive training, semantic clustering, and synthetic QA supervision, significantly improving domain-specific information retrieval performance with low computational cost.- Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
+- Designed and implemented a two-stage pipeline that jointly refines embeddings and chunking using LLM-based triplet supervision and question-evidence pair generation, achieving state-of-the-art results on WikiQA, TechQA, and PubMedQA while remaining deployable on commodity GPUs
+
+<h2><u><strong>KM-plot GPT</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
+**May 2025 – Current** | *Advised by [Prof. Yanxun Xu](https://engineering.jhu.edu/faculty/yanxun-xu/)*
+- **Co-First-author** of the parer "*From Pixels to Patients: Automated IPD Reconstruction from Kaplan-Meier Figures Using Multi-Modal AI*".
+- Developed an end-to-end pipeline to reconstruct Kaplan-Meier survival curves from image-only plots using LLM, Tesseract OCR, Python and R (via rpy2).
+- Extracted axis values and risk tables from plot images using GPT-enhanced OCR; digitized survival curves using SurvdigitizeR, and reconstructed individual patient data (IPD) by aligning with clinical tables via *IPDfromKM*.
+- Built a real-time Flask web service that integrates image super-resolution and denoising to enhance OCR accuracy, and implements optimal curve-to-table matching logic for survival curve reconstruction.
 
 <h2><u><strong>HIV-AICare Web Chatbot and Website Development</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **May 2024 – Current** | *Advised by [Prof. Yanxun Xu](https://engineering.jhu.edu/faculty/yanxun-xu/)*
-- **Co-author** of the paper "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*" (Under Review).
-- Developed a chatbot for the HIV-AICare website based on **MedAlpaca and RAG** technologies, assisting users in interpreting web model calculation results and navigating the platform, significantly enhancing user engagement and system intelligence.
-- Scripted in Python to efficiently gather and process necessary data for the project, leveraging Selenium to automate interactions with web pages.
+- **Co-author** of the paper "*HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV*".
+- Developed an intelligent chatbot for the HIV-AICare platform using **Llama 3.1 8b** and **Multi-Agent** to enhance user comprehension and streamline platform navigation.
+- Contributed to the development and implementation of the [HIV-AICare](https://hiv-aicare.wse.jhu.edu/) website, focusing on creating an intuitive user interface and ensuring seamless integration with backend systems to enhance platform usability and accessibility.
 
 <h2><u><strong>Earthquake Dataset for Graph Neural Network</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
 **Oct 2023 - Current** | *Advised by [Prof. Luana Ruiz](https://luanaruiz9.github.io/)*
-- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*" (Under Review).
+- **First-author** of the parer "*Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks*".
 - Built and optimized a seismic time series dataset (approximately 295GB) from New Zealand's GeoNet, and simultaneously designed and implemented preprocessing workflows, including data cleaning, graph structure construction, and data format conversion, ensuring compliance with the input requirements of GRNN models.
 - **Refactored GRNN code** using PyTorch Geometric (PyG), significantly improving performance and efficiency, achieving a roughly 20\% increase in accuracy compared to traditional *Graph Transformer*.
+
+<h2><u><strong>PCGMurmurDetection via Mean Teacher Learning</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
+**Oct 2023 - Current** | *Advised by [Prof. Ding Kai](https://dinglab.jh.edu/)*
+- **Co-author** of the parer "*Phonocardiogram (PCG) Murmur Detection Based on the Mean Teacher Method*".
+- Developed a semi-supervised murmur detection system using the Mean Teacher framework on PC audio, integrating labeled (PhysioNet 2022) and unlabeled (PhysioNet 2016-e) datasets to improve generalization in low-resource clinical scenarios.
+- Designed a lightweight CNN-based classifier combining Mel-spectrograms and demographic features; achieved state-of-the-art performance (Murmur Score 0.818, AUC 0.9004) with robust data augmentation and subject-wise cross-validation.
 
 <h2><strong>CALEX Extraction System</strong> | <span style="font-weight: normal; font-size: 0.9em;"><em>Graduation Design in Drexel University</em></span></h2>
 **Sep 2022 - Jun 2023** | *Advised by [Prof. Hegler Tissot](https://drexel.edu/cci/about/directory/T/Tissot-Hegler/)*
