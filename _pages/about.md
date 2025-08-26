@@ -59,26 +59,6 @@ I recently graduated with an M.S.E. Student in [Data Science of AMS](https://eng
 - **Frameworks**: OpenAI Assistants and Function Calling, LangChain, PyTorch, Tensorflow, React, Scikit-learn, Tesseract OCR, Flask, Selenium
 - **Deep Learning Models**: LLMs, GRNNs, Graph Transformer, GAN, ResNet, TCN, LSTM
 - **Machine Learning**: Support Vector Machines, Naive Bayes, Decision trees, Logistic Regression
-<!-- 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- <u>Earthquake Magnitude Estimation Using Gated Graph Recurrent Neural Networks</u>, <em><strong>Yantian Ding</strong>, Luana Ruiz</em>, **ICASSP 2025** (Under Review)
-- <u>HIV-AICare: A Domain Knowledge-guided Reinforcement Learning Approach for Optimizing Antiretroviral Therapy in People with HIV</u>, *Dapeng Yao, Wei Jin, Yao Zhao, Luis Parra-Rodriguez, Jane O'Halloran, Raha Dastgheyb, Zhengling Qi, <strong><em>Yantian Ding</em></strong>, David B. Hanna, Andrea Norcini-Pala, Amanda B. Spence*..., **Nature Medicine** (Under Review)
-- <u>Phonocardiogram(PCG) Murmur Detection Based on the Mean Teacher Method</u>, *Yi Luo, Zuoming Fu, <strong><em>Yantian Ding</em></strong>, Xiaojian Chen, Vishal Patel, Kai Ding*, **Sensors** (accepted)
-- <u>Ground Based-cloud Classification based on Comparing Different Classification Models</u>, *Tao Zhang, <strong><em>Yantian Ding</em></strong>, Wangjiang Gong, Zeyu Hou*, **CONF-CDS 2022**
--->
 
 # 🎙 Research Projects
 <h2><u><strong>LMAR</strong></u> | <span style="font-weight: normal; font-size: 0.9em;"><em>Research in Johns Hopkins University</em></span></h2>
